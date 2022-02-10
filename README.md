@@ -1,6 +1,7 @@
 # PostYourThoughts
-- A social website platform, where users can create account and post messages on the community portal.
+- PostYourThoughts is a social website where registered users can share ideas, information, interests and other forms of expression through their posts.
 - Include features such as the CRUD operation (Create, Read, Update, Delete), pagination technique and User authentication system.
+- Tech stacks used in the front end are HTML, CSS and Bootstrap framework. For the Backend and database, Flask framework and SQLAlchemy was utilized.   
 
 ## Screenscots
 
